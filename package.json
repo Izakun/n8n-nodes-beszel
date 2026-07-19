@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-beszel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n community node for Beszel (server monitoring hub: systems & alerts)",
   "license": "MIT",
   "homepage": "https://github.com/Izakun/n8n-nodes-beszel",
@@ -14,7 +14,7 @@
   ],
   "author": {
     "name": "Izakun",
-    "email": "30216483+Izakun@users.noreply.github.com"
+    "email": "carrer.a@outlook.fr"
   },
   "repository": {
     "type": "git",
