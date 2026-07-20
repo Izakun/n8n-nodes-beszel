@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-beszel",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n community node for Beszel (server monitoring hub: systems & alerts)",
   "license": "MIT",
   "homepage": "https://github.com/Izakun/n8n-nodes-beszel",
